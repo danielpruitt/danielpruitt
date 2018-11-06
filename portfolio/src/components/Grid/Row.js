@@ -1,8 +1,8 @@
 import React from "react";
 import "./Row.css";
 
-export const Row = ({ children, styleClass }) =>
-    <div className={`row ${styleClass}`}>
+export const Row = ({ children }) =>
+    <div className="row">
         {children}
     </div>;
 

@@ -3,12 +3,14 @@ import React from "react";
 export const Footer = () =>
     <div className="">
 
-        <footer className="page-footer grey darken-1">
+        <footer className="page-footer  white darken-1 custFont">
             <div className="container">
                 <div className="row">
-                    <div className="col l6 s12">
-                        <h5 className="white-text">Daniel Pruitt</h5>
-                        <p className="grey-text text-lighten-4">This portfolio page was build with React, Materialize, and React-Lazy-Hero.</p>
+                    
+                    <div className="s6 light-blue-text text-darken-1 center">
+                        <h5>danielkylepruitt@gmail.com</h5>
+                        <h5>770-634-8232</h5> 
+                        <p >This portfolio page was build with React and Materialize.</p>
                     </div>
                     {/* <div className="col l4 offset-l2 s12">
                         <h5 className="white-text">Links</h5>
