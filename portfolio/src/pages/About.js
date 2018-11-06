@@ -105,19 +105,19 @@ const About = () => {
 
             </div>
 
-            {/* <div>
+            <div>
                 <Container>
                     <Row>
                         <Col size="12">
-                            <h1>This will hold Nodemailer
+                            {/* <h1>This will hold Nodemailer */}
 
-                            </h1>
+                            {/* </h1> */}
                         </Col>
                         
 
                     </Row>
                 </Container>
-            </div> */}
+            </div>
 
             <div>
             
