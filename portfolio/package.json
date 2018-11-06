@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danielpruitt.github.io/ReactPortfolio",
+  "homepage": "https://danielpruitt.github.io/",
   "dependencies": {
     "jquery": "^3.3.1",
     "materialize-css": "^1.0.0",
