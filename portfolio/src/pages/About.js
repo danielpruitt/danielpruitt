@@ -105,7 +105,7 @@ const About = () => {
 
             </div>
 
-            <div>
+            {/* <div>
                 <Container>
                     <Row>
                         <Col size="12">
@@ -117,7 +117,7 @@ const About = () => {
 
                     </Row>
                 </Container>
-            </div>
+            </div> */}
 
             <div>
             
