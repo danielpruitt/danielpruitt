@@ -5,8 +5,8 @@ import Projects from "./pages/Projects";
 import About from "./pages/About";
 import Skills from "./pages/Skills";
 import './App.css';
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
+import Navbar from "./components/Navbar/Navbar";;
+
 
 
 const App = () => (
@@ -19,8 +19,7 @@ const App = () => (
       <Route exact path="/projects" component={Projects} />
       {/* <Route component={NoMatch} /> */}
     </Switch>
-
-    <Footer />
+    
   </div>
 </Router>
 

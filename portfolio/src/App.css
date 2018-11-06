@@ -1,9 +1,11 @@
 .nunito {
   font-family: 'Nunito Sans', sans-serif;
+  background-color: orange;
+  color: black
 }
 
-body {
-  background-image: url("./images/codes.png");
+/* body {
+  background-color:#757575;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -11,4 +13,4 @@ body {
 
 main {
   flex: 1 0 auto;
-}
+} */
